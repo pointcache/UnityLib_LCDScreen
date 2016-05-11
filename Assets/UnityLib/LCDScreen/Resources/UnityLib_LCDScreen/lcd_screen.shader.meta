@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6b1fe2a4b2a9e9c4b952a79390a9c6d4
+timeCreated: 1462786864
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _PixelClose: {fileID: 2800000, guid: 8e6ee0559d277754fbaceba9e142c7f4, type: 3}
+  - _PixelFar: {fileID: 2800000, guid: 02ef91e8e9382734cbca534ef9936249, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
